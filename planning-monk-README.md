@@ -1,6 +1,6 @@
 # Planning Monk
 
-A zero-code agent that already lives in Claude. A planning assistant that is nothing more than a chat with a job description, walked through your projects on whatever cadence you want. No code, no build, no maintenance.
+A zero-code planning agent that already lives in Claude. It walks your projects, checks your email, meeting notes, and any connected tool (Asana, HubSpot, Slack, whatever you've got), and hands you a briefing. Nothing more than a chat with a job description. No code, no build, no maintenance.
 
 ## What it does
 It takes a brain dump from you, checks your email, calendar, meeting notes and whatever else you point it at via Claude connectors or drop in as project files, walks through your active projects to see where each was left off, and hands you one briefing plus a place to start. Then it gets out of the way.
